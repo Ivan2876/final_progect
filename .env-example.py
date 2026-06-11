@@ -1,0 +1,1 @@
+MONGO_URI="mongodb+srv://hgffftfr:kggghghhg@cluster0.bjkghghghghgh.mongodb.net/?appName=Cluster0"
